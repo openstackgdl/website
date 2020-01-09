@@ -2,7 +2,7 @@
 title: "Celebremos 6 años de OpenStack"
 date: 2016-07-15
 js: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"
-tags: ["openstack", "celebration", "six"]
+tags: ["openstack", "celebration", "6"]
 ---
 
 OpenStack cumple 6 años de su lanzamiento. Es tiempo de celebrar!!!
