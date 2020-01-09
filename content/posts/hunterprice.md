@@ -1,10 +1,17 @@
 ---
-title: "Porqué los desarrolladores de software están adoptando OpenStack"
-date: 2016-11-28
-tags: ["openstack", "api", "development"]
+title: "HunterPrice Cloud Aware App con OpenStack"
+date: 2016-10-17
+tags: ["openstack", "app", "development", "hackathon", "latinamerica"]
 ---
+	
+HunterPrice es una app cloud aware con OpenStack, la cual fue desarrollada durante el pasado Hackathon OpenStack esta te permite obtener de manera dinámica los mejores precios de diferentes artículos entre los supermercados cercanos a tu localidad.  
 
-APIs y una vibrante comunidad global hacen de OpenStack la plataforma de elección para el desarrollo de aplicaciones. Esta platica ofrece una gran cantidad de herramientas para acelerar el desarrollo de software, las pruebas y el control de calidad. Acompáñenos para obtener recursos para los desarrolladores de aplicaciones, incluyendo la creación de una nube privada, el trabajo con contenedores y el acceso a una red global de nube.
+Con el fin de apoyar a la economía individual de las personas, hemos creado una aplicación para hacer una lista de compras que sugiere que articulo comprar en que tienda, teniendo en cuanta la distancia a la que estamos de la tienda y la cantidad de artículos.
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eH5b6fB6FB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 
 Speakers:
-[@trukutrun](https://twitter.com/trukutrun)
+[@arksega](https://github.com/arksega)
