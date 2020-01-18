@@ -1,4 +1,4 @@
-baseurl = "https://openstackgdl.github.io"
+baseurl = "https://www.openstackgdl.org"
 title = "OpenStackGDL"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
