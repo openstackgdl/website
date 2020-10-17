@@ -1,5 +1,5 @@
 baseurl = "https://www.openstackgdl.org"
-title = "OpenStackGDL"
+title = "Open Infrastructure GDL"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -8,8 +8,8 @@ googleAnalytics = "UA-67361101-1" # Enable Google Analytics by entering your tra
 logo = true
 
 [Params]
-  subtitle = "OpenStack Guadalajara" # Subtitle of your site
-  description = "OpenStack community located in Guadalajara, Jalisco, México" # Description of your site
+  subtitle = "Open Infrastructure Guadalajara" # Subtitle of your site
+  description = "Open Infrastructure community located in Guadalajara, Jalisco, México" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -37,5 +37,5 @@ logo = true
 
 [[Params.widgets.social.custom]]
   title = "Meetup"
-  url = "http://www.meetup.com/OpenStack-GDL/"
+  url = "https://www.meetup.com/OpenInfrastructureGDL/"
   icon = "svg/meetup.svg"
