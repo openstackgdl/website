@@ -31,7 +31,7 @@ logo = true
 [Params.widgets.social]
   # Enable parts of social widget
   facebook = "openstackgdl"
-  twitter = "openstackgdl"
+  twitter = "openinfragdl"
   github = "openstackgdl"
   email = "openstackgdl@gmail.com"
 
